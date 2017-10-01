@@ -5,3 +5,6 @@ this is edited from test branch
 
 
 This is edited from the branch test. Again from another branch
+
+
+Branch is added to the remote master
